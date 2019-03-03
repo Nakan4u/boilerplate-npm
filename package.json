@@ -1,23 +1,29 @@
 {
-	"author": {
-		"name": "Grygorii Nakonechyi",
-		"email": "nakan88@gmail.com"
-	},
-	"name": "fcc-learn-npm-package-json",
-	"description": "node.js study project",
-	"version": "0.1",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"engines": {
-		"node": "8.11.2"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/Nakan4u/boilerplate-npm.git"
-	}
+  "author": {
+    "name": "Grygorii Nakonechyi",
+    "email": "nakan88@gmail.com"
+  },
+  "name": "fcc-learn-npm-package-json",
+  "description": "node.js study project",
+  "keywords": [
+    "nodejs",
+    "study",
+    "freecodecamp"
+  ],
+  "license": "MIT",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "8.11.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://idontknow/todo.git"
+  }
 }
