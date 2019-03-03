@@ -1,6 +1,7 @@
 {
 	"author": "Grygorii Nakonechnyi",
 	"name": "fcc-learn-npm-package-json",
+	"version": "0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
