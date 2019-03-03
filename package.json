@@ -1,5 +1,8 @@
 {
-	"author": "Grygorii Nakonechnyi",
+	"author": {
+		"name": "Grygorii Nakonechyi",
+		"email": "nakan88@gmail.com"
+	},
 	"name": "fcc-learn-npm-package-json",
 	"description": "node.js study project",
 	"version": "0.1",
